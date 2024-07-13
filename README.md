@@ -1,16 +1,16 @@
-## Hi there 👋
+# Обо мне / About me
 
-<!--
-**Olmazurova/Olmazurova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Здравствуйте, меня зовут Ольга. Я из России.
 
-Here are some ideas to get you started:
+Мне очень интересно программирование. Как же маленькие импульсы тока превращаются в 1 и 0, машинный код и на выходе в программу? Волшебство!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+В настоящее время я изучаю Python, а также прохожу обучение по программированию беспилотных летательных аппаратов.
+
+---
+In English:
+
+Hello, my name is Olga. I'm from Russia.
+
+I am very interested in programming. How do small pulses of current turn into 1 and 0, machine code and output into a program? Magic!
+
+I am currently learning Python and also undergoing training in drone programming.
