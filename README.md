@@ -6,11 +6,13 @@
 + За это время прошла 4 курса по Python на Stepik.org. В 2024 году проходила обучение по программированию дронов на Python в Томском государственном университете. Умею программировать дроны.
 + В 2025 году закончила обучение на python-разработчика в Яндекс Практикуме. В своё время с отличием окончила Московский авиационный институт.
 + В настоящее время создаю web-приложения и telegram-боты, и конечно обучаюсь дальше.
-+ Мой стек: python 3.9, 3.12, 3.13, django, django rest framework, postgresql, sqlite, redis, docker, docker-compose, github actions, pytest, aiogram, aiogram dialog, git, linux, bash.
++ Мой стек:
+   - ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white), ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 3.9, 3.12, 3.13,
+    - aiogram, aiogram dialog, bash.
 
 ## Связаться со мной
-- <img width="20" height="20" alt="Logo" src="https://github.com/user-attachments/assets/42308a9d-e808-43d1-aef9-bb989435da84" /> [Telegram](https://t.me/olmazurova)
-- 📧: olmazurova88@yandex.ru
+- <img width="20" height="20" alt="Logo" src="https://github.com/user-attachments/assets/42308a9d-e808-43d1-aef9-bb989435da84" /> [@Olmazurova](https://t.me/olmazurova)
+- 📧 olmazurova88@yandex.ru
 
 ## Мои основные проекты:
 [foodgram](https://github.com/Olmazurova/foodgram) - платформа для размещения рецептов. Реализовала возможность зарегистрироваться и создавать свои рецепты, просматривать чужие, добавлять понравившиеся рецепты в избранное, либо в список покупок и скачать его файлом. В качестве базы данных использовалась PostgreSQL, управление через Django ORM. Фронтенд на React был взят готовый. Платформу разворачивала на сервере с помощью docker-compose, через GitHub Actions настроила CI/CD проекта.
@@ -40,8 +42,8 @@ Hello, my name is Olga. I live in Russia.
 + My stack: python 3.9, 3.12, 3.13, django, django rest framework, postgresql, sqlite, redis, docker, docker-compose, github actions, pytest, aiogram, aiogram dialog, git, linux, bash.
 
 ## You can contact me
-- <img width="20" height="20" alt="Logo" src="https://github.com/user-attachments/assets/42308a9d-e808-43d1-aef9-bb989435da84" /> [Telegram](https://t.me/olmazurova)
-- 📧: olmazurova88@yandex.ru
+- <img width="20" height="20" alt="Logo" src="https://github.com/user-attachments/assets/42308a9d-e808-43d1-aef9-bb989435da84" /> [@Olmazurova](https://t.me/olmazurova)
+- 📧 olmazurova88@yandex.ru
 
 ## My main projects:
 [foodgram](https://github.com/Olmazurova/foodgram ) is a platform for posting recipes. Implemented the ability to register and create your own recipes, view other people's recipes, add your favorite recipes to favorites, or to a shopping list and download it as a file. The database used was PostgreSQL, managed via Django ORM. The React frontend was taken ready. I deployed the platform on the server using docker-compose, and set up the CI/CD of the project via GitHub Actions.
