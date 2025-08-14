@@ -8,6 +8,10 @@
 + В настоящее время создаю web-приложения и telegram-боты, и конечно обучаюсь дальше.
 + Мой стек: python 3.9, 3.12, 3.13, django, django rest framework, postgresql, sqlite, redis, docker, docker-compose, github actions, pytest, aiogram, aiogram dialog, git, linux, bash.
 
+## Связаться со мной
+- <img width="20" height="20" alt="Logo" src="https://github.com/user-attachments/assets/42308a9d-e808-43d1-aef9-bb989435da84" /> [Telegram](https://t.me/olmazurova)
+- 📧: olmazurova88@yandex.ru
+
 ## Мои основные проекты:
 [foodgram](https://github.com/Olmazurova/foodgram) - платформа для размещения рецептов. Реализовала возможность зарегистрироваться и создавать свои рецепты, просматривать чужие, добавлять понравившиеся рецепты в избранное, либо в список покупок и скачать его файлом. В качестве базы данных использовалась PostgreSQL, управление через Django ORM. Фронтенд на React был взят готовый. Платформу разворачивала на сервере с помощью docker-compose, через GitHub Actions настроила CI/CD проекта.
 
@@ -34,6 +38,10 @@ Hello, my name is Olga. I live in Russia.
 + In 2025, she completed her training as a python developer at Yandex Practicum. At one time, I graduated with honors from the Moscow Aviation Institute.
 + I am currently creating web applications and telegram bots, and of course I am studying further.
 + My stack: python 3.9, 3.12, 3.13, django, django rest framework, postgresql, sqlite, redis, docker, docker-compose, github actions, pytest, aiogram, aiogram dialog, git, linux, bash.
+
+## You can contact me
+- <img width="20" height="20" alt="Logo" src="https://github.com/user-attachments/assets/42308a9d-e808-43d1-aef9-bb989435da84" /> [Telegram](https://t.me/olmazurova)
+- 📧: olmazurova88@yandex.ru
 
 ## My main projects:
 [foodgram](https://github.com/Olmazurova/foodgram ) is a platform for posting recipes. Implemented the ability to register and create your own recipes, view other people's recipes, add your favorite recipes to favorites, or to a shopping list and download it as a file. The database used was PostgreSQL, managed via Django ORM. The React frontend was taken ready. I deployed the platform on the server using docker-compose, and set up the CI/CD of the project via GitHub Actions.
